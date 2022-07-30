@@ -1,0 +1,186 @@
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.exe.config
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.exe
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.pdb
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.xml
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.AssemblyReference.cache
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.DangNhap.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.Form1.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.Resources.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.GenerateResource.cache
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.CoreCompileInputs.cache
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.exe
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.xml
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.pdb
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLChucVu.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLPhongBan.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLNhanVienn.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.ThongKe_NV.resources
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\RdlCompile.cache
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\RdlCompile.compiled
+D:\NAMHAI\HK2\ThucHanh_LapTrinhTrucQuan\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8)\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.CopyComplete
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.exe.config
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.exe
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.pdb
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.xml
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\EnvDTE.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\stdole.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.MSXML.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.AssemblyReference.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.DangNhap.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.Form1.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.Resources.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLChucVu.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLNhanVienn.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLPhongBan.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.ThongKe_DSNhanVien.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.GenerateResource.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\RdlCompile.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\RdlCompile.compiled
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.CoreCompileInputs.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.CopyComplete
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.exe
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.xml
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8) - Copy\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.pdb
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.exe.config
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.exe
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.pdb
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\QLNhanVien_DoThiHongKhanh.xml
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\EnvDTE.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\stdole.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\Microsoft.MSXML.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.AssemblyReference.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.DangNhap.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.Form1.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.Resources.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLChucVu.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLNhanVienn.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.QLPhongBan.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.GenerateResource.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\RdlCompile.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\RdlCompile.compiled
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.CoreCompileInputs.cache
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.vbproj.CopyComplete
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.exe
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.xml
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.pdb
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.ThongKe_NV.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.ThongKe_CV.resources
+D:\BTCuoiKy_QLNV_DoThiHongKhanh_2050531200212_T5(7-8))\QLNhanVien_DoThiHongKhanh\QLNhanVien_DoThiHongKhanh\obj\Debug\QLNhanVien_DoThiHongKhanh.ThongKe_PB.resources
